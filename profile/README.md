@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="/profile/nb-social-preview.png" alt="Nova-boot" width="100%" />
-  ![Nova-boot](profile/nb-social-preview.png)
+  <img src="profile/nb-social-preview.png" alt="Nova-boot" width="100%" />
 </p>
 
 <p align="center">
