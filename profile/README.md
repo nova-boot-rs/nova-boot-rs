@@ -1,4 +1,5 @@
 <p align="center">
+<img src="https://ibb.co/0VGdDy2Z" alt="Nova-boot" width="100%" />
   <img src="/profile/nb-social-preview.png" alt="Nova-boot" width="100%" />
 </p>
 
