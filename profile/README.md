@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1JEjinOgJ4f2BwdpqU8E1enyXmPyfwaja/view?usp=drivesdk" alt="Nova-boot" width="100%" />
   <img src="/profile/nb-social-preview.png" alt="Nova-boot" width="100%" />
 </p>
 
